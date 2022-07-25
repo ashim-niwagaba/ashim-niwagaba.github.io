@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    line-height: 1.5em;
+    font-family: 'Lucida Sans';
+    
+}
+*h1 h2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+
+
+body{
+    background-color: grey;
+    width: 80%;
+    margin: 0 auto;
+
+
+}
+.logo{
+    text-transform: uppercase;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+nav{
+    background-color: #f2ebd9;
+    border: lightgray solid;
+    padding: 5px 20px;
+}
+nav a{
+    padding: 5px;
+    margin-left: 0;
+    margin-right: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+footer{
+    background-color: #f2ebd9;
+    margin-top: 5px;
+    padding: 10px;
+    text-align: center;
+    
+
+}
+video{
+    width: 100%;
+    margin-bottom: 10px;
+
+
+}
+a:hover
+{
+    background-color: blue;
+    color: white;
+
+}
+.hide{
+    border-right: none;
+}
